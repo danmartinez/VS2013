@@ -12,7 +12,8 @@
                HorizontalAlignment="Right"
                VerticalAlignment="Top"
                FontSize="30" />
-  </SwapChainPanel>
+        <TextBlock HorizontalAlignment="Left" Margin="418,276,0,0" TextWrapping="Wrap" Text="BLARR!!!" VerticalAlignment="Top" FontSize="72" Foreground="Black"/>
+    </SwapChainPanel>
 
   <Page.BottomAppBar>
     <AppBar x:Name="bottomAppBar" Padding="10,0,10,0">
